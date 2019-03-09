@@ -1,0 +1,26 @@
+#title {
+    color: #FFFFFF;
+    background: #d50000;
+    border-radius: 8px;
+}
+
+form {
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px 0 rgba(250,20,30,80.20);
+    transition: 0.5s;
+}
+
+#boton {
+    color: #ffffff;
+    background: #536dfe;
+    border-radius: 10px;
+    padding: 3px;
+    border: 10 solid #000000;
+    transition: 0.10s;
+    cursor: pointer;
+}
+#boton:hover {
+    color: #536dfe;
+    background: #ffffff;
+} 
